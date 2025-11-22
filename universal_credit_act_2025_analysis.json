@@ -1,0 +1,50 @@
+{
+  "summary": "### Summary of the Universal Credit Act 2025\n\n- **Purpose**: \n  - To amend the rates of the standard allowance and the limited capability for work-related activity (LCWRA) element of Universal Credit for tax years 2026-27 to 2029-30, and to address legacy employment and support allowance payments.\n\n- **Key Definitions**: \n  - **Standard Allowance**: The basic amount included in an award of Universal Credit.\n  - **LCWRA Element**: An additional amount for claimants with limited capability for work and work-related activity.\n  - **Pre-2026 Claimant**: A claimant who was entitled to Universal Credit including the LCWRA element before 6 April 2026.\n  - **Severe Conditions Criteria Claimant**: A claimant meeting specific severe health conditions as defined in the regulations.\n\n- **Eligibility**: \n  - Claimants must meet the criteria for Universal Credit and may include those with limited capability for work, severe conditions, or who are terminally ill. Specific rates apply differently based on whether they are pre-2026 claimants or new claimants.\n\n- **Obligations**: \n  - The Secretary of State is required to ensure that the standard allowance and LCWRA amounts are adjusted annually based on the Consumer Prices Index (CPI) and a specified uplift percentage for each tax year.\n\n- **Enforcement Elements**: \n  - The Act specifies that certain sections of the Social Security Administration Act 1992 regarding annual up-rating do not apply to the LCWRA element or standard allowance for the specified tax years.\n  - The Secretary of State must exercise relevant powers to increase amounts as necessary to meet the defined criteria for the protected LCWRA amount and standard allowance.\n\n- **Corresponding Provision for Northern Ireland**: \n  - The Act includes provisions that correspond to the changes made for Northern Ireland, ensuring consistency across regions.\n\n- **Implementation Timeline**: \n  - The changes outlined in the Act will come into effect on 6 April 2026, affecting assessment periods commencing on or after that date.",
+  "sections": {
+    "definitions": "In this section \u2014 (a) \u201cconsumer prices index\u201d means the all items consumer prices index published by the Statistics Board; (b) a \u201crelevant power\u201d means\u2014 (i) the power in section 9(2) of the Welfare Reform Act 2012, or (ii) the power in section 150(2)(b) of the Social Security Administration Act 1992; (c) \u201cthe standard allowance\u201d means the allowance to be included in an award of universal credit under section 9(1) of the Welfare Reform Act 2012; (d) \u201ctax year\u201d means the 12 months beginning with 6 April in any year; (e) \u201cpre-2026 claimant\u201d has the meaning in regulation 27A(1); (f) \u201csevere conditions criteria claimant\u201d has the meaning in regulation 40A(2); (g) \u201cthe LCWRA element\u201d has the meaning given by regulation 27 of the Universal Credit Regulations 2013; (h) \u201cthe LCW element\u201d has the meaning given by regulation 27 of the Universal Credit Regulations 2013.",
+    "obligations": "The Secretary of State must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated for each tax year in accordance with subsection (2); The Secretary of State must exercise the power in section 9(2) or 12(3) of the Welfare Reform Act 2012 to increase the protected LCWRA amount for that tax year, or any amount of the standard allowance for that tax year.",
+    "responsibilities": "The Secretary of State is responsible for ensuring the amounts of the standard allowance and the LCWRA element are adjusted according to the relevant CPI and uplift percentages.",
+    "eligibility": "A claimant is eligible if they are a pre-2026 claimant, a severe conditions criteria claimant, or a claimant who is terminally ill.",
+    "payments": "The minimum amounts of the standard allowance for a tax year are calculated based on the previous year's amounts adjusted by the relevant CPI percentage and uplift percentage. The relevant uplift percentages for tax years 2026-27 to 2029-30 are 2.3%, 3.1%, 4.0%, and 4.8% respectively.",
+    "penalties": "Subsections (1) and (2) of section 150 of the Social Security Administration Act 1992 (annual up-rating of benefits) do not apply to the LCWRA element or the LCW element for the specified tax years.",
+    "record_keeping": "The Secretary of State must maintain records of the calculations and adjustments made to the standard allowance and LCWRA elements for the specified tax years."
+  },
+  "rule_checks": [
+    {
+      "rule": "Act must define key terms",
+      "status": "pass",
+      "evidence": "Section 1(6) defines terms such as 'consumer prices index', 'relevant power', and 'the standard allowance'.",
+      "confidence": 90
+    },
+    {
+      "rule": "Act must specify eligibility criteria",
+      "status": "pass",
+      "evidence": "Section 2(1)(a) specifies eligibility criteria for claimants with limited capability for work and work-related activity.",
+      "confidence": 85
+    },
+    {
+      "rule": "Act must specify responsibilities of the administering authority",
+      "status": "pass",
+      "evidence": "Section 1(1) states that the Secretary of State must exercise relevant powers to secure amounts of the standard allowance.",
+      "confidence": 80
+    },
+    {
+      "rule": "Act must include enforcement or penalties",
+      "status": "fail",
+      "evidence": "The Act does not specify any enforcement mechanisms or penalties for non-compliance.",
+      "confidence": 95
+    },
+    {
+      "rule": "Act must include payment calculation or entitlement structure",
+      "status": "pass",
+      "evidence": "Section 1(2) outlines the calculation of the standard allowance based on CPI and uplift percentages.",
+      "confidence": 90
+    },
+    {
+      "rule": "Act must include record-keeping or reporting requirements",
+      "status": "fail",
+      "evidence": "The Act does not mention any specific record-keeping or reporting requirements.",
+      "confidence": 90
+    }
+  ]
+}
