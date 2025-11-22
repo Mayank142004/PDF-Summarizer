@@ -1,0 +1,21 @@
+{
+  "summary": "5-10 bullet point summary of the Act",
+  "sections": {
+    "definitions": "...",
+    "obligations": "...",
+    "responsibilities": "...",
+    "eligibility": "...",
+    "payments": "...",
+    "penalties": "...",
+    "record_keeping": "..."
+  },
+  "rule_checks": [
+    {
+      "rule": "Act must define key terms",
+      "status": "pass",
+      "evidence": "Section 2 – Definitions",
+      "confidence": 92
+    },
+    ...
+  ]
+}
